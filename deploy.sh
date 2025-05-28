@@ -5,3 +5,4 @@ AWS CodeDeploy is a great tool.
 SDLC is great.
 deployment with Ansible. 
 performance development
+cicd Jenkins 
